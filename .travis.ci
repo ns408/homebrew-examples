@@ -1,0 +1,6 @@
+os: osx
+addons:
+  homebrew:
+    taps: ns408/homebrew-examples
+    casks: example_c_language
+script: example_c_language
