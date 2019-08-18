@@ -4,6 +4,6 @@ language: minimal
 addons:
   homebrew:
     taps: ns408/homebrew-examples
-    casks: example_c_language
+    packages: example_c_language
     update: true
 script: example_c_language
