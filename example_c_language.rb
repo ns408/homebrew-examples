@@ -11,6 +11,6 @@ class ExampleCLanguage < Formula
   end
 
   test do
-    system bin/"example_c_language"
+    system bin/example_c_language
   end
 end
