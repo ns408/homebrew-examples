@@ -6,4 +6,4 @@ addons:
     taps: ns408/homebrew-examples
     casks: example_c_language
     update: true
-#script: example_c_language
+script: example_c_language
